@@ -1,0 +1,30 @@
+{
+  "name": "@threadmetal/footprints",
+  "private": true,
+  "version": "0.0.1",
+  "description": "a session history navigation tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/threadmetal/footprints.git"
+  },
+  "keywords": [
+    "module",
+    "lint",
+    "experimental"
+  ],
+  "author": "Robert M. Koch <threadmetal@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/threadmetal/footprints/issues"
+  },
+  "homepage": "https://github.com/threadmetal/footprints#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coffee-script": "^1.10.0",
+    "mocha": "^2.4.5"
+  }
+}
