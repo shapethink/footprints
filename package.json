@@ -1,7 +1,7 @@
 {
   "name": "@threadmetal/footprints",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a session history navigation tool",
   "main": "index.js",
   "scripts": {
